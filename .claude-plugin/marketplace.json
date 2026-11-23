@@ -8,6 +8,7 @@
   "plugins": [
     {
       "name": "ma3-assistant",
+      "displayName": "MA3 Assistant",
       "source": {
         "source": "archive",
         "url": "https://shop.ma3-pro-plugins.com/agent-plugins/claude/0.1.0-beta.1/ma3-assistant-0.1.0-beta.1.zip",
