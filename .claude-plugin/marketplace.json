@@ -1,20 +1,20 @@
 {
   "name": "ma3-pro-plugins",
-  "description": "Pro-Plugins for grandMA3: MA3 Assistant for Claude Code.",
+  "description": "MA3-Pro-Plugins for grandMA3: MA3 Vibe for Claude Code.",
   "owner": {
-    "name": "Pro-Plugins",
+    "name": "MA3-Pro-Plugins",
     "url": "https://shop.ma3-pro-plugins.com"
   },
   "plugins": [
     {
-      "name": "ma3-assistant",
-      "displayName": "MA3 Assistant",
+      "name": "ma3-vibe",
+      "displayName": "MA3 Vibe",
       "source": {
         "source": "archive",
-        "url": "https://shop.ma3-pro-plugins.com/agent-plugins/claude/0.1.0-beta.1/ma3-assistant-0.1.0-beta.1.zip",
-        "sha256": "3606252643cfc66eb9a7798f5a0694d7a578890c4a1a2bc91569f743ab1ca7c9"
+        "url": "https://shop.ma3-pro-plugins.com/agent-plugins/claude/0.1.0-beta.1/ma3-vibe-0.1.0-beta.1.zip",
+        "sha256": "e908a91862e06c9ca88cc651ea741e3d82db36e0617f4f92a752a408388e17df"
       },
-      "description": "Work on a grandMA3 show with Claude Code: MA3 Assistant's grandMA3 knowledge base, and your console or onPC through bridge-server on this computer."
+      "description": "Work on a grandMA3 show with Claude Code: MA3 Vibe's grandMA3 knowledge base, and your console or onPC through bridge-server on this computer."
     }
   ]
 }
