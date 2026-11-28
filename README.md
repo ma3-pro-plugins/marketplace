@@ -1,6 +1,6 @@
 # MA3 Pro Plugins marketplace
 
-The plugin marketplace for **MA3 Vibe**, which lets Claude Code work on a grandMA3 show with you. It is a beta for invited testers, on macOS. After installing, the console tools and the knowledge base need a sign-in and beta access.
+The plugin marketplace for **MA3 Vibe**, which lets Claude Code work on a grandMA3 show with you. It is a beta for invited testers. After installing, the console tools and the knowledge base need a sign-in and beta access.
 
 ## Install
 
