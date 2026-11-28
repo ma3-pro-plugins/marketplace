@@ -11,8 +11,8 @@
       "displayName": "MA3 Vibe",
       "source": {
         "source": "archive",
-        "url": "https://shop.ma3-pro-plugins.com/agent-plugins/claude/0.1.0-beta.1/ma3-vibe-0.1.0-beta.1.zip",
-        "sha256": "e908a91862e06c9ca88cc651ea741e3d82db36e0617f4f92a752a408388e17df"
+        "url": "https://shop.ma3-pro-plugins.com/agent-plugins/claude/0.1.0-beta.2/ma3-vibe-0.1.0-beta.2.zip",
+        "sha256": "b61df961419e2ed752cc1cf6067a0e8f5ae4feae0c6975184434b31d8b762d4b"
       },
       "description": "Work on a grandMA3 show with Claude Code: MA3 Vibe's grandMA3 knowledge base, and your console or onPC through bridge-server on this computer."
     }
