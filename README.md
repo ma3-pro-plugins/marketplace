@@ -1,19 +1,19 @@
 # MA3 Pro Plugins marketplace
 
-The plugin marketplace for **MA3 Assistant**, which lets Claude Code work on a grandMA3 show with you. It is a beta for invited testers.
+The plugin marketplace for **MA3 Vibe**, which lets Claude Code work on a grandMA3 show with you. It is a beta for invited testers, on macOS. After installing, the console tools and the knowledge base need a sign-in and beta access.
 
 ## Install
 
-In the Claude desktop app: **Plugins** → **Add** → **Add marketplace** → **Add from a repository**, enter `ma3-pro-plugins/marketplace`, then install **ma3-assistant** from the plugin list.
+In the Claude desktop app: **Plugins** → **Add** → **Add marketplace** → **Add from a repository**, enter `ma3-pro-plugins/marketplace` and click **Sync**. Then install **MA3 Vibe** from the plugin list.
 
 In a terminal:
 
 ```text
 claude plugin marketplace add ma3-pro-plugins/marketplace
-claude plugin install ma3-assistant@ma3-pro-plugins
+claude plugin install ma3-vibe@ma3-pro-plugins
 ```
 
-Then start a new Claude Code session and run `/ma3-assistant:connect`.
+Then start a new Claude Code session and run `/ma3-vibe:connect`.
 
 ## What is here
 
